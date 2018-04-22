@@ -1,0 +1,40 @@
+{
+  "somedata": [
+    {
+      "id": 1,
+      "name": "Vasya"
+    },
+    {
+      "id": 2,
+      "name": "Petya"
+    },
+    {
+      "id": "3",
+      "name": "Yura"
+    },
+    {
+      "id": "123",
+      "name": "tryuty"
+    },
+    {
+      "id": "12",
+      "name": "xcvb"
+    },
+    {
+      "id": "09",
+      "name": "kjlh"
+    },
+    {
+      "id": "0",
+      "name": "kjlhsdf"
+    },
+    {
+      "id": "456",
+      "name": "myname"
+    },
+    {
+      "id": "1222",
+      "name": "ert"
+    }
+  ]
+}
